@@ -8,7 +8,7 @@ import Personal from '../components/Stats/Personal';
 const Stats = () => (
   <Main
     title="Stats"
-    description="Some statistics about Michael D'Angelo and mldangelo.com"
+    description="Some statistics about Oscar Zhang and zhangoscsar.com"
   >
     <article className="post" id="stats">
       <header>
