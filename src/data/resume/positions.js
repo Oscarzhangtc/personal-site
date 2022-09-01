@@ -45,7 +45,7 @@ const positions = [
     link: 'https://corporate.jd.com/home',
     daterange: 'Oct 2020 - Feb 2021',
     points: [
-      "Architected and engineered machine learning system to automate text classification on JD's shopping mall platform, allowing the product to attain profitability by cutting ¥1,100,000/year in human labor cost.",
+      "Architected and engineered machine learning system to automate text classification on JD's shopping mall platform, allowing the product to attain profitability by cutting $150,000/year in human labor cost.",
       'Researched consumer trends and evaluated marketing strategies, developed a sales strategy recommender model trusted by 30+ malls across the country.',
     ],
   },
