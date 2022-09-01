@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Babson College',
-    degree: 'Bachelo of Science. Technology, Entrepreneurship, Design',
+    degree: 'Bachelor of Science. Technology, Entrepreneurship, Design',
     link: 'https://www.babson.edu/',
     year: 2023,
   },
