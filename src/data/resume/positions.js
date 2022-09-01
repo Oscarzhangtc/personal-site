@@ -1,9 +1,18 @@
 const positions = [
   {
+    company: 'Microsoft',
+    position: 'Product Manager Intern',
+    link: 'https://careers.microsoft.com/students/us/en/job/1375725/Product-Management-Intern-Opportunities-for-University-Students',
+    daterange: 'July 2022 - Present',
+    points: [
+      'Working on ML and NLP powered features in Microsoft Teams. ',
+    ],
+  },
+  {
     company: 'Amazon Web Services',
     position: 'Program Manager Intern',
     link: 'https://aws.amazon.com/',
-    daterange: 'July 2022 - September 2022',
+    daterange: 'July 2021 - September 2021',
     points: [
       'Led a team of 3 engineers and SA to develop and deploy productivity tools for SA and marketing departments, increased completeness of consumer data to 100%.',
       'In collaboration with developers in Seattle, chaperoned and localized the deployment of Boost (AWS Product) in APAC regions.',
