@@ -11,14 +11,12 @@ const data = [
   },
   {
     title: 'StringEvolution',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    subtitle: 'Biological Evolution of Strings',
     link: 'https://github.com/Oscarzhangtc/StringEvolution',
     image: '/images/projects/harvest.jpg',
     date: '2020-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Interpreting strings through a lense of evolutionary biology. ',
   },
   {
     title: 'Computational Art',
