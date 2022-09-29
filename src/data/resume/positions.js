@@ -20,16 +20,6 @@ const positions = [
     ],
   },
   {
-    company: 'Miracle Plus(Formerly Y Combinator China)',
-    position: 'Fellow',
-    link: 'https://www.linkedin.com/company/miracleplus/',
-    daterange: 'July 2022 - Present',
-    points: [
-      'Worked as Investment Research Analyst briefly starting June 2021, transitioned to be a fellow.',
-      'I screened and sourced potential start-ups for Miracle Plus, working under Dr. Lu Qi. 3/5 Companies I referred was ultimately accepted by the program, and a raised a total of 30 million(yuan) of capital.',
-    ],
-  },
-  {
     company: 'SOSV',
     position: 'Investment Analyst Intern',
     link: 'https://sosv.com/',
